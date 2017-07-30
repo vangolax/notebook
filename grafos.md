@@ -4,7 +4,7 @@ Grafos é tópico bastante comum na maratona de programação. Entender o que el
 na competição. Nesse tópico é introduzido alguns conceitos sobre grafos em conjunto com alguns algoritmos básicos.
 
 notação de um grafo: G(V, E); V representa um conjunto de arestas e E representa um conjunto de arestas. Uma aresta é uma
-tupla (u, v), em que representa uma ligação entre dois vértices, u e v.
+dupla (u, v), em que representa uma ligação entre dois vértices, u e v.
 
 ## Conceitos
 
